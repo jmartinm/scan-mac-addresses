@@ -1,3 +1,5 @@
+This is a modification of the original code in order to detect given MAC addresses in the local area network and start iCamSource when they are not around.
+
 ## Layer 2 network neighbourhood discovery tool ##
 
 Tool to discover hosts in your network using ARP pings.

@@ -1,1 +1,6 @@
 scapy==2.3.2
+pypcap==1.1.6
+
+# On MACOS, dependencies needed are
+# C compiler + make (Xcode will have these settled)
+# brew install libdnet

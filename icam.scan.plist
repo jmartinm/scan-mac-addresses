@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>icam.scan</string>
+    <key>ProgramArguments</key>
+    <array>
+        <string><CHANGE-ME-PATH>/neighbourhood.py</string>
+    </array>
+    <key>StandardOutPath</key>
+    <string><CHANGE-ME-PATH>/logfile.log</string>
+    <key>StandardErrorPath</key>
+    <string><CHANGE-ME-PATH>/logfile_error.log</string>
+    <key>StartInterval</key>
+    <integer>60</integer>
+</dict>
+</plist>
+
+
